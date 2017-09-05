@@ -122,8 +122,8 @@ from public sources and replacing the online course videos over time. I like usi
 
 This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
-- [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
-- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [X] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [X] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
@@ -418,3 +418,13 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 ## My admired companies
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
+
+## Progress 
+### Day 1
+- Installed python data science environment
+- Completed chapter 1 of Data Science from Scratch book
+- Completed chapter 1 of Think Stats book
+
+### Day 2
+- Previewed some data science learning paths
+- Completed Week 1 of Coursera's Learning how to learn lecture
