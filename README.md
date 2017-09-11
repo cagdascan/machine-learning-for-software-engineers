@@ -140,16 +140,16 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [x] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [x] [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
-- [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
-- [ ] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
+- [x] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
+- [x] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
 - [x] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
 - [x] [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
 - [x] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## Machine learning mastery
-- [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
-- [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
-- [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
+- [x] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
+- [x] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
+- [x] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
@@ -438,3 +438,17 @@ Each day I take one subject from the list below, read it cover to cover, take no
 ### Day 4
 - Read some more introductory materials
 - Wathced some ML introductory videos
+
+### Day 5
+- Read some more introductory materials
+- Wathced some ML introductory videos
+
+### Day 6
+- Read the book - Think Python (Chapter 3 - 7)
+
+### Day 7
+- Read the book - Think Python (Chapter 8 - 13)
+
+### Day 8
+- Finished the book - Think Python (Chapter 14 - 19)
+- Started coursera - Introduction to Deep Learning Course (Week 1 Completed)
